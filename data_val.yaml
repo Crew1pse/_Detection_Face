@@ -1,0 +1,6 @@
+path: .
+train: datasets/WIDER_train/images
+val: datasets/WIDER_val/images
+
+nc: 1
+names: ['face']

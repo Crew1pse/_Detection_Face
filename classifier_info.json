@@ -1,0 +1,5 @@
+{
+    "task": "face_classification_age_gender",
+    "epochs": 20,
+    "total_time_sec": 599.32
+}

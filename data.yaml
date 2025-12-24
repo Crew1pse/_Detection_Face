@@ -1,0 +1,6 @@
+path: .
+train: datasets/WIDER_train/images
+val: datasets/WIDER_train/images  # или отдельный val из train
+
+nc: 1
+names: ['face']
